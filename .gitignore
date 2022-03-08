@@ -1,0 +1,11 @@
+__pycache__
+tmp*.*
+loss_plots*.png
+saved_models
+Image/
+Mask/
+cityscape_data
+data
+*.txt
+extra
+!Plotter/DataExamples/*.txt
